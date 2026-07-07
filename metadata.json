@@ -1,0 +1,6 @@
+{
+  "name": "Peshawar Food & Hotel Hub",
+  "description": "Discover, review, and compare the best restaurants and hotels in Peshawar, Pakistan with smart filters and AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
